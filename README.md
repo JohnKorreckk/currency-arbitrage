@@ -1,4 +1,3 @@
-```markdown
 # Forex Arbitrage Detector
 
 A FastAPI backend that detects currency arbitrage opportunities using live Forex data from TwelveData and stores them in Redis for quick retrieval.
